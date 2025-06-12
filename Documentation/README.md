@@ -1,5 +1,5 @@
 % Inventory Management System (IMS)  Official User Guide  
-% Team CodeBaddies  
+% Team CodeBaddiess  
 % May 2025  
 
 ### Project Contributors
