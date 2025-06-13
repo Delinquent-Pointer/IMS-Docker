@@ -636,7 +636,6 @@ For questions, bug reports, or feature requests, please reach out to the project
   - [@Delinquent-Pointer](https://github.com/Delinquent-Pointer)
   - [@Jared-Schimpf](https://github.com/Jared-Schimpf)
   - [@Pbrown34](https://github.com/Pbrown34)
-- Email (for deployment or credential issues): *School-email* 
 
 # 9. License & Academic Use
 
